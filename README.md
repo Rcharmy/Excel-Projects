@@ -1,4 +1,4 @@
-# Data Analytics using Excel - Projects
+# Data Analytics using Microsoft Excel - Projects
 Welcome to my collection of data analytics projects, where I leverage Excel to extract insights, visualize trends, and support data-driven decision-making. These projects demonstrate my proficiency in:
 
 1. **Data Cleaning and Preparation:** Transforming raw datasets into clean, structured data for analysis. 
